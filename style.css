@@ -1,1 +1,35 @@
-made up css
+/* General page styles */
+body {
+    background-color: #ffdde1; /* Light pink */
+    font-family: Arial, sans-serif;
+}
+
+/* Headings with pastel highlights */
+h1 {
+    background-color: #bae1ff; /* Pastel blue */
+    display: inline;
+    padding: 5px;
+}
+
+h2 {
+    background-color: #ffc480; /* Pastel orange */
+    display: inline;
+    padding: 5px;
+}
+
+h3 {
+    background-color: #f7db39; /* Pastel yellow */
+    display: inline;
+    padding: 5px;
+}
+
+h4 {
+    background-color: #90dac4; /* Pastel green */
+    display: inline;
+    padding: 5px;
+}
+
+/* Link styles */
+a:visited {
+    color: rgb(186, 16, 72);
+}
