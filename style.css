@@ -18,18 +18,18 @@ h2 {
 }
 
 h3 {
-    background-color: #f7db39; /* Pastel yellow */
+    background-color: #ffec7e; /* Pastel yellow */
     display: inline;
     padding: 5px;
 }
 
 h4 {
-    background-color: #90dac4; /* Pastel green */
+    background-color: #b9eec5; /* Pastel green */
     display: inline;
     padding: 5px;
 }
 
 /* Link styles */
 a:visited {
-    color: rgb(186, 16, 72);
+    color: rgb(236, 56, 116);
 }
