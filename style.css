@@ -8,25 +8,21 @@ body {
 h1 {
     background-color: #bae1ff; /* Pastel blue */
     display: inline;
-    padding: 5px;
 }
 
 h2 {
     background-color: #ffc480; /* Pastel orange */
     display: inline;
-    padding: 5px;
 }
 
 h3 {
     background-color: #ffec7e; /* Pastel yellow */
     display: inline;
-    padding: 5px;
 }
 
 h4 {
     background-color: #b9eec5; /* Pastel green */
     display: inline;
-    padding: 5px;
 }
 
 /* Link styles */
